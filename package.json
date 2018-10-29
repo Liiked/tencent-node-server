@@ -1,0 +1,22 @@
+{
+  "name": "tencent-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liiked/tencent-node-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liiked/tencent-node-server/issues"
+  },
+  "homepage": "https://github.com/Liiked/tencent-node-server#readme",
+  "dependencies": {
+    "koa": "^2.6.1"
+  }
+}
