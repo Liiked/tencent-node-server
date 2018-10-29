@@ -6,5 +6,5 @@ app.use(async ctx => {
   ctx.body = { name: '1111' };
 });
 
-app.listen(8888);
+app.listen(2333);
 console.log('success')
